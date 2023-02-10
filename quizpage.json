@@ -1,7 +1,8 @@
 {
   "admob": {
     "isActive": true,
-    "bannerId": "ca-app-pub-9179394095501249/8328308979"
+    "bannerId": "ca-app-pub-9179394095501249/8328308979",
+    "rewardedAdId":""
   },
   "sponsors": {
     "youtubeUrl": "",
