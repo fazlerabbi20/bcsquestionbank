@@ -1,6 +1,6 @@
 {
   "admob": {
-    "isActive": false,
+    "isActive": true,
     "bannerId": "ca-app-pub-6448124743413579/6463179414"
   },
   "sponsors": {
