@@ -1,13 +1,13 @@
 {
   "admob": {
-    "isActive": true,
+    "isActive": false,
     "bannerId": "ca-app-pub-6448124743413579/1417632649",
     "rewardedAdId":"ca-app-pub-6448124743413579/5261778388"
   },
   "sponsors": {
     "youtubeUrl": "",
     "imageUrl": "",
-    "isActive": true,
+    "isActive": false,
     "title": "",
     "description": ""
   }
